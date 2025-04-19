@@ -1,6 +1,6 @@
 import java.time.Year;
 
-public class idade {
+public class Idade {
 
     public static void main(String[] args) {
         int anoatual = Year.now().getValue();
